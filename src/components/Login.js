@@ -6,6 +6,7 @@ const Login = () => {
   return (
     <div>
       <Header />
+      Header
       <div>
         <BackgroundBaner />
       </div>
