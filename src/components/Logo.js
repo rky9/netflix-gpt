@@ -5,7 +5,7 @@ const Logo = () => {
     <>
       <span
         className="default-ltr-cache-0 ev1dnif0"
-        data-uia="nmhp-card-header+logo"
+        data-uia="nmhp-card-header+logo svg-nfLogo"
       >
         <svg
           viewBox="0 0 111 30"
